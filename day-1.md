@@ -3,6 +3,7 @@
 - [ ]  Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ]  Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ]  Convert my first blog post into an actual webpage.
+<img alt="loudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## receive<h6>
 convert an image or video from daRk mode to light mode useing[ffmpeg](https://www.ffmpeg.org)
 ```bash
